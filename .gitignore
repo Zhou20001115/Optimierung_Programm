@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook 缓存
+.ipynb_checkpoints/
+
+# PyCharm/IDE 配置
+.idea/
+
+# 虚拟环境
+venv/
+env/
+
+# 如果你的 data 文件夹很大（比如超过100MB），保留下面这行。
+# 如果你想上传数据，就把下面这行开头的 # 删掉，或者直接把这行删掉。
+# VRPTW/data/

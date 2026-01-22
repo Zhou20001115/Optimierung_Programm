@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook 缓存
+.ipynb_checkpoints/
+
+# PyCharm/IDE 配置 (根据你的 tree 显示你有这个文件夹)
+.idea/
+
+# 虚拟环境 (如果 env 在项目里)
+venv/
+env/
+
+# 数据文件 (如果你不想把测试数据上传，保留此项；如果数据很小想上传，则删除此行)
+# VRPTW/data/
